@@ -1,0 +1,471 @@
+div{
+    border: 1px black solid;
+    padding: 3px;
+    box-sizing: border-box;
+    
+}
+.envoltorio{
+    background-color: burlywood;
+    padding: 20px;
+    margin: 0px auto;
+    width: 80%;
+    position: relative;
+}
+
+.envoltorio div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.cont_01{
+    background-color: crimson;
+}
+.cont_02{
+    background-color: darkgreen;
+    position:absolute;
+    top: 60px;
+    left: 110px;
+
+    
+}
+.cont_03{
+    background-color: indigo;
+}
+.cont_04{
+    background-color: lime;
+    width: 600px !important;
+    display: block !important;
+}
+.francia{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+
+.francia div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.azul{
+    background-color: blue;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+.blanco{
+    background-color: white;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+.rojo{
+    background-color: red;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+
+
+.colombia{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+
+.colombia div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.amarillo1{
+    background-color:yellow;
+    display: inline-block;
+    width: 400px;
+    height: 130px;
+}
+
+.azul1{
+    background-color: blue;
+    display: inline-block;
+    width: 400px;
+    height: 60px;
+}
+.rojo1{
+    background-color: red;
+    display: inline-block;
+    width: 400px;
+    height: 60px;
+}
+
+
+.mexico{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+
+.mexico div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.verde2{
+    background-color: green;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+.blanco2{
+    background-color: white;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+.rojo2{
+    background-color: red;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+.escudo_mexico{
+    width: 60%;
+    display: inline-block;
+    position: relative;
+    top: -180px;
+    left: 135px;
+}
+
+
+.españa{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+
+.españa div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.rojo3{
+    background-color:red;
+    display: inline-block;
+    width: 400px;
+    height: 70px;
+}
+
+.amarillo3{
+    background-color: yellow;
+    display: inline-block;
+    width: 400px;
+    height: 120px;
+}
+
+.escudo_españa{
+    width: 50%;
+    display: inline-block;
+    position: relative;
+    top: -190px;
+    left: 70px;
+}
+
+
+
+
+.japon{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+
+.japon div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco4{
+    background-color: white;
+    display: inline-block;
+    width: 400px;
+    height: 250px;
+}
+
+.circulo4{
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    position: relative;
+    top: -200px;
+    left: 125px;
+    background: red;
+    border-radius: 50%  
+}
+
+
+.islandia{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+.islandia div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.azul5{
+    background-color:blue;
+    display: inline-block;
+    width: 400px;
+    height: 250px;
+}
+
+.blanco_top{
+    width: 70px;
+    height: 250px;
+    background: white;
+    display: inline-block;
+    position: relative;
+    top: -250px;
+    left: 100px;
+}
+
+
+.blanco_left{
+    width: 400px;
+    height: 70px;
+    background: white;
+    display: inline-block;
+    position: relative;
+    top: -420px;
+    left: 0px;
+}
+
+
+
+.cruz_top{
+    width: 400px;
+    height: 35px;
+    background: red;
+    border: 10px;
+    border-color: white;
+    display: inline-block;
+    position: relative;
+    top: -470px;
+    left: 0px;
+
+}
+
+.cruz_left{
+    width: 35px;
+    height: 250px;
+    background: red;
+    border: 10px;
+    border-color: white;
+    display: inline-block;
+    position: relative;
+    top: -605px;
+    left: 115px;
+
+}
+
+.chile{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+.chile div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.azul_chile{
+    width: 130px;
+    height: 130px;
+    background: blue;
+    display: inline-block;
+}
+
+.blanco_chile{
+    width: 270px;
+    height: 130px;
+    background: white;
+    display: inline-block;
+    position: relative;
+    top: -130px;
+    left: 125px;
+}
+
+.rojo_chile{
+    width: 400px;
+    height: 130px;
+    background: red;
+    display: inline-block;
+    position: relative;
+    top: -130px;
+    left: 0px;
+}
+
+.estrella_chile1{
+    width: 0px;
+    height: 0px;
+    border-left: solid 100px transparent;
+    border-right: solid 100px transparent;
+    border-bottom: solid 70px purple;
+}
+
+.brasil{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+.brasil div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+
+.verde_brasil{
+    background-color:green;
+    display: inline-block;
+    width: 400px;
+    height: 250px;
+}
+
+.rombo_brasil{
+    height: 200px;
+    width: 200px;
+    background: yellow;
+    -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+    -moz-transform: rotate(45deg) skew(15deg, 15deg);
+    -ms-transform: rotate(45deg) skew(15deg, 15deg);
+    -o-transform: rotate(45deg) skew(15deg, 15deg);
+    transform: rotate(135deg) skew(15deg, 15deg);
+    display: inline-block;
+    position: relative;
+    top: -220px;
+    left: 100px;
+} 
+
+
+.circulo_brasil{
+    width: 130px;
+    height: 130px;
+    display: inline-block;
+    position: relative;
+    top: -180px;
+    left: -65px;
+    background:blue;
+    border-radius: 50% 
+}
+
+
+.paquistan{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+.paquistan div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco_paki{
+    width: 100px;
+    height: 250px;
+    display: inline-block;
+    background: white;
+    border: black 5px solid;
+    
+
+}
+
+.verde_paki{
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    background: darkgreen;
+    position: relative;
+    top: -255px;
+    left: 100px;
+}
+
+.luna_paki{
+    width: 150px;
+    height: 150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-box-shadow: 30px 10px 0 #ffffff;
+    -webkit-box-shadow: 30px 10px 0 #ffffff;
+    box-shadow: 30px 10px 0 #ffffff;
+    transform: rotate(140deg);
+    position: relative;
+    top: -460px;
+    left: 200px;
+}
+
+
+.corea{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+    box-sizing: border-box;
+}
+
+.corea div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco_corea{
+    background: white;
+    display: inline-block;
+    width: 400px;
+    height: 250px;
+
+}
+
